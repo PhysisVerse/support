@@ -1,0 +1,27 @@
+{
+  "index": {
+	  "title": "Home",
+	  "theme": {
+		"breadcrumb": false,
+		"footer": true,
+		"sidebar": true,
+		"toc": true,
+		"pagination": true,
+		"layout": "full"
+	  }
+  },
+  "astralis": "ASTRALIS",
+  "about": {
+	"title": "About",
+	"type": "page",
+	"theme": {
+	  "layout": "full"
+	}
+  },
+  "contact": {
+	"title": "Contact ↗",
+	"type": "page",
+	"href": "https://twitter.com/PhysisVerse",
+	"newWindow": true
+  }
+}
