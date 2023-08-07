@@ -24,4 +24,4 @@ Z --> F;
 Z --> G;
 ```
 
-The **Pythagorean equation**: $a=\sqrt{b^2 + c^2}$.
+All equations go here**: $a=\sqrt{b^2 + c^2}$.
