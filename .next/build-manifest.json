@@ -26,21 +26,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
-    ],
-    "/astralis/smartspot/ar-vr-compatability": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/astralis/smartspot/ar-vr-compatability.js"
-    ],
-    "/astralis/smartspot/onboarding": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/astralis/smartspot/onboarding.js"
-    ],
-    "/astralis/smartspot/returns-refunds": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/astralis/smartspot/returns-refunds.js"
     ]
   },
   "ampFirstPages": []
