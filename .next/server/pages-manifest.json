@@ -2,5 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/astralis/smartspot/rewards": "pages/astralis/smartspot/rewards.js",
+  "/astralis/smartspot/onboarding": "pages/astralis/smartspot/onboarding.js"
 }

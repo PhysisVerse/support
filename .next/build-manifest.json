@@ -26,6 +26,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/astralis/smartspot/onboarding": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/astralis/smartspot/onboarding.js"
+    ],
+    "/astralis/smartspot/rewards": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/astralis/smartspot/rewards.js"
     ]
   },
   "ampFirstPages": []
