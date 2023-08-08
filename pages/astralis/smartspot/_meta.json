@@ -1,4 +1,10 @@
 {
   "onboarding": "Onboarding",
-  "returns-refunds": "Returns & Refunds"
+  "returns-refunds": "Returns & Refunds",
+  "ownership-transfers": "Ownership & Transfers",
+  "ordering": "Ordering",
+  "rewards": "Rewards",
+  "specifications": "Specifications",
+  "ar-vr-compatability": "AR & VR Compatability",
+  "warranty": "Warranty"
 }
