@@ -24,4 +24,4 @@ Z --> F;
 Z --> G;
 ```
 
-All equations go here**: $a=\sqrt{b^2 + c^2}$.
+All equations go here please including emissions and rewards**: $a=\sqrt{b^2 + c^2}$.
