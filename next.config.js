@@ -5,6 +5,10 @@ const withNextra = require('nextra')({
   flexsearch: {
 	codeblocks: false
   },
+  i18n: {
+    locales: ['en', 'de'],
+    defaultLocale: 'en'
+  },
   defaultShowCopyCode: true
 })
 
