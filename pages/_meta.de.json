@@ -1,5 +1,5 @@
 {
-  "index": {
+  "index.de": {
     "title": "Startseite",
     "theme": {
       "breadcrumb": false,
@@ -11,14 +11,14 @@
     }
   },
   "astralis": "ASTRALIS",
-  "about": {
+  "uber": {
     "title": "Über",
     "type": "page",
     "theme": {
       "layout": "full"
     }
   },
-  "contact": {
+  "kontakt": {
     "title": "Kontakt ↗",
     "type": "page",
     "href": "https://twitter.com/PhysisVerse",
