@@ -26,6 +26,10 @@ const config: DocsThemeConfig = {
 	  </svg>
 	)
   },
+  i18n: [
+	{ locale: 'en', text: 'English' },
+	{ locale: 'de', text: 'Deutsch' }
+  ],
   docsRepositoryBase: 'https://github.com/PhysisVerse/docs/blob/main',
   footer: {
 	text: 'Copyright © 2023 Physis Foundation, Physis DAO | Built with Nextra.',
