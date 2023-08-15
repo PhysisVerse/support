@@ -1,7 +1,10 @@
 {
   "getting-started": "Getting Started",
-  "devkit": "DevKit",
-  "open-api": "PHY OpenAPI",
+  "api-keys": "API Keys",
+  "phy-sdk": "Physis SDK",
+  "phy-api": "Physis API",
+  "astralis-sdk": "ASTRALIS SDK",
+  "astralis-api": "ASTRALIS API",
   "pipelines": "Pipelines",
   "native-tools": "Native Tools"
 }

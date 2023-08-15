@@ -13,13 +13,7 @@
   "physis": "Physis",
   "astralis": "ASTRALIS𐫰",
   "developers": "Developers",
-  "about": {
-	"title": "About",
-	"type": "page",
-	"theme": {
-	  "layout": "full"
-	}
-  },
+  "support": "Support",
   "contact": {
 	"title": "Contact ↗",
 	"type": "page",
