@@ -1,6 +1,6 @@
 {
   "index": {
-	  "title": "Home",
+	  "title": "Welcome",
 	  "theme": {
 		"breadcrumb": false,
 		"footer": true,
@@ -10,6 +10,7 @@
 		"layout": "full"
 	  }
   },
+  "physis": "Physis",
   "astralis": "ASTRALIS",
   "develop": "Develop",
   "about": {
