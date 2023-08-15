@@ -1,0 +1,69 @@
+import { Steps } from 'nextra/components'
+
+
+# SmartSpot Quick Start
+
+## Unboxing
+
+
+ 
+<Steps>
+### Step 1
+ 
+Contents for step 1.
+ 
+### Step 2
+ 
+Contents for step 2.
+
+### Step 3
+ 
+Contents for step 3.
+
+### Step 4
+ 
+Contents for step 4.
+
+### Step 5
+ 
+Contents for step 5.
+
+### Step 6
+ 
+Contents for step 6.
+</Steps>
+
+
+## Connecting
+
+ 
+<Steps>
+### Step 1
+ 
+Contents for step 1.
+ 
+### Step 2
+ 
+Contents for step 2.
+
+### Step 3
+ 
+Contents for step 3.
+
+### Step 4
+ 
+Contents for step 4.
+
+### Step 5
+ 
+Contents for step 5.
+
+### Step 6
+ 
+Contents for step 6.
+</Steps>
+
+
+## Things to Know
+
+

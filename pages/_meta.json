@@ -11,6 +11,7 @@
 	  }
   },
   "astralis": "ASTRALIS",
+  "develop": "Develop",
   "about": {
 	"title": "About",
 	"type": "page",

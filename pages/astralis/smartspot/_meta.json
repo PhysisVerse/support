@@ -1,10 +1,11 @@
 {
-  "ordering": "Ordering",
+  "quick-start": "Quick Start",
   "onboarding": "Onboarding",
   "ownership-transfers": "Ownership & Transfers",
   "rewards": "Rewards",
   "ar-vr-compatability": "AR & VR Compatability",
   "specifications": "Specifications",
   "returns-refunds": "Returns & Refunds",
-  "warranty": "Warranty"
+  "warranty": "Warranty",
+  "ordering": "Ordering"
 }
