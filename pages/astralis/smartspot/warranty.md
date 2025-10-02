@@ -1,14 +1,36 @@
 # SmartSpot Warranty
 
-## Terms
+Physis products are built to last.  
+Every SmartSpot is crafted with precision, tested with care, and delivered with confidence.  
+If something goes wrong, we stand behind it.  
 
-- Physis holds the sole discretion over the option to repair or replace.
-- Replacement products may be refurbished or new at the discretion of Physis.
-- Products must be purchased as new from Physis. Warranty only applies to the original purchaser of the product and cannot be transferred. Products purchased as secondhand, used, or from auction sites do not carry any warranty (because we cannot validate if a product has been tampered with by a previous buyer who we have no way of getting in touch with). 
-- The warranty duration lasts for 12 months from the date of delivery.
-- Products provided as replacements under the service will continue under the original product’s warranty at the original start date. The warranty date will not change or reset due to any service performed.
-- Using Physis products with power sources that did not come with the device will void the warranty. All third-party power adapters including Power over Ethernet (PoE) adapters are to be used “at your own risk”.
-- Warranty will not be covered for products where the tamper-seal label has been damaged. All product housings must remain unopened in order to be eligible for refund or replacement.
-- The warranty does not cover defects or malfunction caused by misuse, abuse, or improper maintenance, failure to follow operating instructions, or use of third-party equipment. Warranty will not apply to damage caused by unauthorised modification, broken security seals or unauthorised repair of the product.
+## Warranty Terms
 
-For warranty replacement inquiries please ​submit a customer care ticket and a representative will contact you about a replacement.
+- **Repair or Replace**  
+  At our discretion, Physis may repair or replace your device. Replacement products may be new or refurbished to the same exacting standards.
+
+- **Original Purchases Only**  
+  Warranty applies exclusively to devices purchased **new** from Physis by the original owner.  
+  Products bought secondhand, used, or through auctions are not eligible.
+
+- **12-Month Coverage**  
+  Coverage begins on the date of delivery and lasts for **12 months**.  
+  Devices replaced under warranty continue on the original timeline.
+
+- **Use With Official Power**  
+  Always use the included Physis power supply.  
+  Third-party adapters (including PoE) are used at your own risk and will void coverage.
+
+- **Tamper Protection**  
+  The SmartSpot housing and seal must remain unopened and intact.  
+  Tampering, modification, or unauthorized repair voids warranty eligibility.
+
+- **Proper Care Required**  
+  Warranty does not cover misuse, neglect, failure to follow operating guidelines,  
+  or damage caused by third-party equipment.
+
+---
+
+## Need a Replacement?
+
+Submit a [customer care ticket](#) and a Physis specialist will guide you through the process.

@@ -2,7 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/astralis/smartspot/rewards": "pages/astralis/smartspot/rewards.js",
-  "/astralis/smartspot/onboarding": "pages/astralis/smartspot/onboarding.js"
+  "/astralis/smartspot/specifications": "pages/astralis/smartspot/specifications.js",
+  "/astralis/smartspot/returns-refunds": "pages/astralis/smartspot/returns-refunds.js",
+  "/astralis/smartspot/warranty": "pages/astralis/smartspot/warranty.js"
 }

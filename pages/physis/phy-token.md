@@ -1,1 +1,1 @@
-# Physis (PHY) Token
+# PHY

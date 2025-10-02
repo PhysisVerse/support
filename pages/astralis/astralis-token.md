@@ -1,3 +1,3 @@
-# ASTRALIS Token
+# ASTRALIS
 
 ## Function

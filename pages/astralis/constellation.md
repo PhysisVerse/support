@@ -1,6 +1,6 @@
 # ASTRALIS Constellation
 
-The main network that interacts with the Physis ecosystem and OpenAPI is called the Constellation
+The primary network that helps to power the Physis ecosystem and OpenAPI.
 
 
 ```mermaid
@@ -24,4 +24,4 @@ Z --> F;
 Z --> G;
 ```
 
-All equations go here please including emissions and rewards**: $a=\sqrt{b^2 + c^2}$.
+All equations to go here: **: $a=\sqrt{b^2 + c^2}$.

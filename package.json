@@ -1,5 +1,5 @@
 {
-  "name": "a.cheek",
+  "name": "physis-care",
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "@types/node": "^17.0.41",

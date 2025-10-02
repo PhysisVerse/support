@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   logo: (
 	<>
-	  <img id="logo" src="https://shdw-drive.genesysgo.net/GEmb2ovbEuWijEzapoEaViShkUvwbgpe2ohVTzVLzuU/phy-full-light.png"></img>
+	  <img id="logo" src="https://oort.astralis.network/PHY/assets/img/phy-txt-light.png"></img>
 	</>
   ),
   project: {
@@ -32,7 +32,7 @@ const config: DocsThemeConfig = {
   ],
   docsRepositoryBase: 'https://github.com/PhysisVerse/docs/blob/main',
   footer: {
-	text: 'Copyright © 2023 Physis Foundation, Physis DAO | Built with Nextra.',
+	text: 'Copyright © 2025 Physis Labs | Built with Nextra.',
   },
 }
 
